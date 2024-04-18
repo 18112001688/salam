@@ -1,7 +1,5 @@
 # salam
-
-A new Flutter project.
-
+Salam is an innovative application designed to seamlessly transform text into captivating video content. With an array of customizable templates, a rich library of media assets, and intuitive editing tools, Salam empowers users to create visually stunning videos with ease. Stay tuned as we continue to develop and enhance this exciting tool!
 ## Getting Started
 
 This project is a starting point for a Flutter application.
